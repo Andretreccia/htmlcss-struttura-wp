@@ -9,8 +9,18 @@
     display: table;
     clear: both;
 }
-/* debug section */
-.debug {
-    
+body {
+    width: 80%;
+    margin: auto;
 }
+/* debug section */
+.siteheader.debug{ 
+    height: 100px;
+}
+
 /* /debug section */
+/* Site Header */
+.siteheader {
+    background-color:rgb(222 175 24 / 43%);
+}
+/* /Site Header */
