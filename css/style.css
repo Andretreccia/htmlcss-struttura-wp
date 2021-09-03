@@ -21,10 +21,10 @@ body {
     height: 400px;
 }
 .titlecontent.debug {
-    height: 90px;
+    height: 100px;
 }
 .sitecontent.debug {
-    height: 500px;
+    height: 630px;
 }
 .sidetext.debug {
     height: 500px;
@@ -39,19 +39,27 @@ body {
 /* Site Header */
 .siteheader {
     background-color:rgb(222 175 24 / 43%);
+    margin: 1rem;
+    
 }
 /* /Site Header */
 /* Site Main */
     .article {
         background-color: mediumpurple;
+        margin: 1rem;
+        
     }
     .titlecontent {
         background-color: rgb(207 236 225);
+        margin-bottom: 1rem;
+      
     }
     
     /* Site content */
     .sitecontent {
         background-color: skyblue;
+        margin: 1rem;
+        
     }
     .sidetext{
         background-color: rgb(252, 239, 61);
@@ -71,6 +79,8 @@ body {
 /* Sitefooter */
 .sitefooter {
     background-color :saddlebrown;
+    margin: 1rem;
+    margin-top: 0.1rem;
 
 }
 /* /Sitefooter */
